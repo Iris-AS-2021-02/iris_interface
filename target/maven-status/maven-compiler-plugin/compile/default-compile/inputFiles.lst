@@ -1,0 +1,9 @@
+/home/laura/Documentos/spring-boot-soap-example/src/main/java/com/techprimers/springbootsoapexample/SpringBootSoapExampleApplication.java
+/home/laura/Documentos/spring-boot-soap-example/src/main/java/com/techprimers/springbootsoapexample/config/SoapWebServiceConfig.java
+/home/laura/Documentos/spring-boot-soap-example/src/main/java/com/techprimers/spring_boot_soap_example/GetUserResponse.java
+/home/laura/Documentos/spring-boot-soap-example/src/main/java/com/techprimers/spring_boot_soap_example/package-info.java
+/home/laura/Documentos/spring-boot-soap-example/src/main/java/com/techprimers/spring_boot_soap_example/ObjectFactory.java
+/home/laura/Documentos/spring-boot-soap-example/src/main/java/com/techprimers/springbootsoapexample/endpoint/UserEndpoint.java
+/home/laura/Documentos/spring-boot-soap-example/src/main/java/com/techprimers/springbootsoapexample/service/UserService.java
+/home/laura/Documentos/spring-boot-soap-example/src/main/java/com/techprimers/spring_boot_soap_example/GetUserRequest.java
+/home/laura/Documentos/spring-boot-soap-example/src/main/java/com/techprimers/spring_boot_soap_example/User.java
